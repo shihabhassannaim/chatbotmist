@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What are the admission requirements?",
+        "answer": "Admission requires a minimum GPA of 3.0, SAT/ACT scores, a personal statement, and letters of recommendation."
+    },
+    {
+        "question": "Where is the university located?",
+        "answer": "The university is located at 123 University Avenue, City, Country."
+    },
+    {
+        "question": "What courses are offered?",
+        "answer": "We offer programs in Computer Science, Business, Engineering, Medicine, Arts, and more."
+    },
+    {
+        "question": "How much is the tuition fee?",
+        "answer": "Tuition fees vary by program. Undergraduate programs start at $10,000 per year, while graduate programs range from $12,000 to $20,000 per year."
+    },
+    {
+        "question": "What is the university's contact email?",
+        "answer": "You can contact us at info@university.edu."
+    },
+    {
+        "question": "Is there on-campus accommodation?",
+        "answer": "Yes, we offer dormitories and student apartments. Prices range from $500 to $1000 per month."
+    },
+    {
+        "question": "What scholarships are available?",
+        "answer": "We offer merit-based, need-based, and research scholarships. Visit our financial aid office for details."
+    },
+    {
+        "question": "How can I apply for a student visa?",
+        "answer": "International students need an acceptance letter, financial proof, and a completed visa application to apply for a student visa."
+    },
+    {
+        "question": "What sports facilities are available?",
+        "answer": "We have a gym, swimming pool, basketball courts, football fields, and a tennis center."
+    },
+    {
+        "question": "When does the semester start?",
+        "answer": "The fall semester begins in September, and the spring semester starts in January."
+    }
+]
