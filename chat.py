@@ -35,6 +35,20 @@ def get_best_answer(query, index, questions, answers):
 # Initialize FastAPI
 app = FastAPI()
 
+from fastapi.middleware.cors import CORSMiddleware
+
+app = FastAPI()
+
+# Allow all origins
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
 data = load_university_data()
 index, questions, answers = create_vector_store(data)
 
